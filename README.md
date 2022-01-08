@@ -20,4 +20,8 @@ It is also possible to sort data by ID, or name:
 ![](https://github.com/ThatOneSaar/javafx-postgres-contacts/blob/master/dbimages/sort.png)
 
 ## Made by
-# Aleksander Lobasenko and Erboto Tazabekov
+# [Aleksander Lobasenko](https://github.com/ThatOneSaar) and [Erboto Tazabekov](https://github.com/Boudyyy)
+
+<a href="https://github.com/ThatOneSaar/javafx-postgres-contacts/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ThatOneSaar/javafx-postgres-contacts" />
+</a>
