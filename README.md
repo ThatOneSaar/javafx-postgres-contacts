@@ -19,5 +19,5 @@ In this application, data also can be edited, updated:
 It is also possible to sort data by ID, or name:
 ![](https://github.com/ThatOneSaar/javafx-postgres-contacts/blob/master/dbimages/sort.png)
 
-# Made by
+## Made by
 # Aleksander Lobasenko and Erboto Tazabekov
